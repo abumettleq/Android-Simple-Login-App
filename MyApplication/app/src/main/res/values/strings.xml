@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_sis">Welcome to SIS</string>
+    <string name="choose_university">Choose a university</string>
+    <string name="please_choose_your_school">Please, choose your university:</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_190041145">Welcome 190041145</string>
+    <string name="show_my_info">Show My Info</string>
+    <string name="logout">Logout</string>
+</resources>
